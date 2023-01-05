@@ -1,0 +1,25 @@
+body {
+    background-color:#A0C3D2;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #F5EDCE;
+    border-width: 10px;
+    width: 8%;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+/*
+.front:hover{
+    background-image: url('self.png');
+}
+*/
